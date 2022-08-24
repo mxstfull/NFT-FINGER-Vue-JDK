@@ -1,10 +1,4 @@
-[![Chainpip.com](https://cdn.fingerchar.com/images/chainpip/chainpip_ad_en.png)](https://www.chainpip.com)
-
-
-
-![FingerNFT](https://cdn.fingerchar.com/images/logo.jpg)
-
-### What is fingernft
+### fingernft
 Fingernft system is a decentralized NFT market developed based on Ethereum. Fingernft draws lessons from rarible smart contract to realize fee free offline signature and help users reduce fee consumption while trading NFT. Fingernft can be deployed on popular public chains such as Ethereum, BSC, HECO and Polygon. Developed in popular Java and Vue3.0 languages, combined with the current popular back-end technology spring boot back-end framework and the mainstream front-end framework Vue3, the mobile terminal adopts responsive technology to realize the front-end and back-end separation technology, which is the best choice for the technical team to developing the NFT market.
 Fingernft has the characteristics of mainstream technology, low price and loose authorization. The fingernft system supports DAPP browsers of major wallets and is compatible with the world's mainstream NFT trading markets opensea and rarible. NFTs created on fingernft can be sold on mainstream platforms such as opensea. At the same time, NFTs of other platforms can also be sold on fingernft system.Currently FingerNFT has 【Open Source Version】, 【Basic Version】, 【Blind Box + Auction Version】, 【Liquid Staking Version】, 【Blockchain Game Market (gamefi) Version】
 
@@ -45,21 +39,6 @@ admin  12345678
 | Liquid Staking Version | Includes blind box + auction edition 1、LP pledge: LP token pledge on all swap systems rewards platform currency；2、Pool pledge: pledge platform currency to obtain third-party currency; NFT pledge: Set up the designated NFT contract or tokenid to participate in the pledge, and reward the designated currency. |
 | Blockchain Game Market (gamefi) Version| Contains liquid collateral; 1、GameFi: Any game asset can be connected to the platform, and the platform can be authorized to log in to the game;Recharge assets to the game party on the platform, or withdraw assets from the game party |
 
-
-![FingerNFT](https://cdn.fingerchar.com/images/version_en.jpeg)
-
-### Contact us
-* Tel: 13459461911
-* Telegram: [https://t.me/fingernft1](https://t.me/fingernft1)
-
-#### WeChat
-
-![微信](https://cdn.fingerchar.com/images/customer.png)
-
-#### Telegram
-
-![Telegram](https://cdn.fingerchar.com/images/telegram.png)
-
 ### Development environment
 - Server technology: Spring Boot Java framework
 - Front-end technology: PC + HTML5 responsive based on VUE3.0
@@ -71,11 +50,3 @@ admin  12345678
 * JDK >= 1.8
 * MySQL >= 5.8
 * Maven >= 3.1.1
-
-### 演示图
-![](https://cdn.fingerchar.com/images/show1.png)
-
-![](https://cdn.fingerchar.com/images/show2.png)
-
-![](https://cdn.fingerchar.com/images/show3.png)
-
